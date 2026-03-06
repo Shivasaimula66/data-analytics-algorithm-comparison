@@ -1,5 +1,10 @@
 # Data Analytics Algorithm Comparison
 
+## Power BI Dashboard
+
+![Dashboard](dashboard.png)
+
+
 This project compares machine learning algorithms using Python and visualizes the results using Power BI.
 
 Dataset:
